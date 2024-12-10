@@ -5,6 +5,10 @@ kelas:TI 24 A5 <p>
 # FLOWCHART 
 ![flowchart](https://github.com/user-attachments/assets/aab21970-0ae3-4da2-8957-b976f6b69bd0)
 
+# DIAGRAM CLASS
+![Screenshot 2024-12-10 173134](https://github.com/user-attachments/assets/0107a68e-55f5-4b82-828d-79e46d12a389)
+
+
 # PENJELASAN PROGRAM
 
 ![image](https://github.com/user-attachments/assets/a6cb9683-d779-4cc1-b9d0-95d933e6c059)
